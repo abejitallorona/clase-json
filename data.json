@@ -1,0 +1,26 @@
+{
+    "personas": [
+        {
+            "nombre": "juan",
+            "edad": 20,
+            "pais": "colombia"
+        },
+        {
+            "nombre": "juana",
+            "edad": 15,
+            "pais": "peru"
+        }
+    ],
+    "animales":[
+        {
+            "nombre": "firulais",
+            "edad": 2,
+            "raza": "chandita"
+        },
+        {
+            "nombre": "camilo",
+            "edad": 3,
+            "raza": "caro"
+        }
+    ]
+}
